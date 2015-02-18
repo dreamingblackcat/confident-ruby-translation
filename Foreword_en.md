@@ -35,3 +35,6 @@ A sense of fun and a feeling of obligation; that's it, now you know him.
 Avdi writes code that is easy to understand; in Confident Ruby he teaches us how to
 do the same. Among programmers, there is no higher praise.
 Enjoy the book.
+
+Sandi Metz
+March, 28, 2014
